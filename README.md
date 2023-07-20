@@ -7,7 +7,8 @@ I'm a frontend developer (working my way towards fullstack) based in Taipei, Tai
 
 ### ☘️ Currently working on
 - A vocabulary-building web app inspired by my students learning English at the place I work part-time at 🔡
-- Meta's frontend developer certificate & Google's advanced data analytics certificate 🗒️ 
+- Meta's frontend developer certificate & Google's advanced data analytics certificate 🗒️
+- Keeping my dev blog up to date <https://dev.to/ivavay>
 
 
 🌱 I'm open to opportunities in Taipei or remote. Feel free to email me at ivy0925chen@gmail.com to get in touch.
