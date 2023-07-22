@@ -2,12 +2,12 @@
 
 ### 🌼 A little bit about me 
 
-I'm a frontend developer (working my way towards fullstack) based in Taipei, Taiwan by way of San Francisco. I've been curiously dabbling in web development since 2017 when I first joined my friends at a hackathon at the Github headquarters in SF. Quickly after that, I began self-learning online through various platforms and helped organize hackathons [on campus](https://2020.cruzhacks.com/) and [remotely](https://www.sospectra.com/). In college, my background has primarily been in cognitive science and product design. However, I'm taking a leap of faith and dedicating more focused time to web development starting this summer 2023. 
+I'm a frontend developer based in Taipei, Taiwan by way of San Francisco. I've been curiously dabbling in web development since 2017 when I first joined my friends at a hackathon at the Github headquarters in SF. Quickly after that, I began self-learning online through various platforms and helped organize hackathons [on campus](https://2020.cruzhacks.com/) and [remotely](https://www.sospectra.com/). In college, my background has primarily been in cognitive science and product design. However, I'm taking a leap of faith and dedicating more focused time to web development starting this summer 2023. 
 
 
 ### ☘️ Currently working on
 - A vocabulary-building web app inspired by my students learning English at the place I work part-time at 🔡
-- Meta's frontend developer certificate & Google's advanced data analytics certificate 🗒️
+- Scrimba's interview exercises & Google's advanced data analytics certificate 🗒️
 - Keeping my dev blog up to date <https://dev.to/ivavay>
 
 
