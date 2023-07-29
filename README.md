@@ -7,7 +7,7 @@ I'm a frontend developer based in Taipei, Taiwan by way of San Francisco. I've b
 
 ### ☘️ Currently working on
 - A vocabulary-building web app inspired by my students learning English at the place I work part-time at 🔡
-- Scrimba's interview exercises & Google's advanced data analytics certificate 🗒️
+- Scrimba's interview exercises & CS50 🗒️
 - Keeping my dev blog up to date <https://dev.to/ivavay>
 
 
