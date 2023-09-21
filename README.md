@@ -6,7 +6,7 @@ I'm a frontend developer based in Taipei, Taiwan by way of San Francisco. I've b
 
 
 ### ☘️ Currently working on
-- Fullstack Open Helsinki & CS50P 🗒️
+- CS50 Web 🗒️
 - Keeping my dev blog up to date <https://dev.to/ivavay>
 
 
