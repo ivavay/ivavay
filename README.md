@@ -6,7 +6,7 @@ I'm a frontend developer (hobbyist for now) based in Taipei, Taiwan by way of Sa
 
 
 ### ☘️ Currently working on
-- [ccClub Python](https://www.ccclub.io/)
+— Secret Santa project 🎅
 - CS50 Web 🗒️
 - Keeping my dev blog up to date <https://dev.to/ivavay>
 
