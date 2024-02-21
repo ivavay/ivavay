@@ -6,8 +6,7 @@ I'm a frontend developer (hobbyist for now) based in Taipei, Taiwan by way of Sa
 
 
 ### ☘️ Currently working on
-- Secret Santa project 🎅
-- CS50 Web 🗒️
+- CS50 🗒️
 - Keeping my dev blog up to date <https://dev.to/ivavay>
 
 
