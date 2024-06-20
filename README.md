@@ -2,7 +2,7 @@
 
 ### 🌼 A little bit about me 
 
-I'm a frontend developer based in Taipei, Taiwan by way of San Francisco. Currently on a 6-month coding bootcamp journey with [Appworks School](https://school.appworks.tw/) in Taipei ☘️
+I'm a frontend developer based in Taipei, Taiwan. Currently on a 6-month coding bootcamp journey with [Appworks School](https://school.appworks.tw/) in Taipei ☘️
 
 
 ### ☘️ Currently working on
