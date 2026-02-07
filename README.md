@@ -2,7 +2,7 @@
 
 ### 🌼 A little bit about me 
 
-I'm a frontend developer based in Taipei, Taiwan. Recent graduate from [AppWorks School](https://school.appworks.tw/) in Taipei ☘️
+I'm a developer based in Taipei, Taiwan. Graduate from [AppWorks School](https://school.appworks.tw/) in Taipei ☘️ Formerly at a medical AI startup doing frontend. 
 
 
 ### ☘️ Currently working on
