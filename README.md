@@ -6,7 +6,7 @@ I'm a developer based in Taipei, Taiwan. Graduate from [AppWorks School](https:/
 
 
 ### ☘️ Currently working on
-- Fullstack Open course
+- taking notes, refreshing, learning new things @ [Fullstack Open course](https://fullstackopen.com/en/)
 - Keeping my reads and thoughts up to date in this [readme blog/log](https://github.com/ivavay/fav-devreads)
 
 
