@@ -2,7 +2,7 @@
 
 ### 🌼 A little bit about me 
 
-I'm a developer based in Taipei, Taiwan. Graduate from [AppWorks School](https://school.appworks.tw/) in Taipei ☘️ Formerly at a medical AI startup doing frontend. Writing very occasionally on [Dev.to](https://dev.to/ivavay).
+I'm a developer based in Taipei, Taiwan. Graduate from [AppWorks School](https://school.appworks.tw/) in Taipei ☘️ Formerly at a medical AI startup doing frontend, currently at [Tricuss](https://www.tricuss.ai/en-US). Writing very occasionally on [Dev.to](https://dev.to/ivavay).
 
 
 ### ☘️ Currently working on
